@@ -1,0 +1,25 @@
+{
+  "name": "db",
+  "version": "0.0.0",
+  "description": "Learning how database engines work!",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ecasilla/bee_tree.git"
+  },
+  "keywords": [
+    "Btree"
+  ],
+  "author": "Ernie Casilla",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ecasilla/bee_tree/issues"
+  },
+  "homepage": "https://github.com/ecasilla/bee_tree",
+  "devDependencies": {
+    "mocha": "^1.21.4"
+  }
+}
